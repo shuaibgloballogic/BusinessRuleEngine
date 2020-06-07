@@ -9,3 +9,14 @@ C:\Users\shuaib.ahmad\Desktop\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\ne
 C:\Users\shuaib.ahmad\Desktop\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.AssemblyInfo.cs
 C:\Users\shuaib.ahmad\Desktop\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.dll
 C:\Users\shuaib.ahmad\Desktop\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.pdb
+D:\MyTestProject\BusinessRuleEngine\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.exe
+D:\MyTestProject\BusinessRuleEngine\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.deps.json
+D:\MyTestProject\BusinessRuleEngine\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.runtimeconfig.json
+D:\MyTestProject\BusinessRuleEngine\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.runtimeconfig.dev.json
+D:\MyTestProject\BusinessRuleEngine\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.dll
+D:\MyTestProject\BusinessRuleEngine\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.pdb
+D:\MyTestProject\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.csprojAssemblyReference.cache
+D:\MyTestProject\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.AssemblyInfoInputs.cache
+D:\MyTestProject\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.AssemblyInfo.cs
+D:\MyTestProject\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.dll
+D:\MyTestProject\BusinessRuleEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.pdb

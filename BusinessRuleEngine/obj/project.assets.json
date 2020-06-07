@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shuaib.ahmad\\Desktop\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj",
+      "projectUniqueName": "D:\\MyTestProject\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj",
       "projectName": "BusinessRuleEngine",
-      "projectPath": "C:\\Users\\shuaib.ahmad\\Desktop\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj",
+      "projectPath": "D:\\MyTestProject\\BusinessRuleEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj",
       "packagesPath": "C:\\Users\\shuaib.ahmad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shuaib.ahmad\\Desktop\\BusinessRuleEngine\\BusinessRuleEngine\\obj\\",
+      "outputPath": "D:\\MyTestProject\\BusinessRuleEngine\\BusinessRuleEngine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
