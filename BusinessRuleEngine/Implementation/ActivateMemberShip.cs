@@ -9,13 +9,13 @@ namespace Test.Implementation
     public class ActivateMemberShip:IProcess
     {
         #region Private Members
-        private readonly IProcess nextSteps = null;
+        private readonly IProcess nextStep = null;
         #endregion
 
         #region Constructors
         public ActivateMemberShip(IProcess nextStep = null)
         {
-            this.nextSteps = nextStep;
+            this.nextStep = nextStep;
         }
         #endregion
 
@@ -27,10 +27,10 @@ namespace Test.Implementation
                 // do some stuff for activating the membership
                 // and process next step
                 // break the chain if process failed
-                if (nextSteps != null)
+                if (nextStep != null)
                 {
                     string message = "Dear Customer, Your membership has been activated";
-                    return nextSteps.Process(message);
+                    return nextStep.Process(message);
                 }
                 return new Result((int)Status.SUCCESS);
             }

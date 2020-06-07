@@ -9,13 +9,13 @@ namespace BusinessRuleEngine.Implementation
     public class EMailNotification:IProcess
     {
         #region Private Members
-        private readonly IProcess nextSteps = null;
+        private readonly IProcess nextStep = null;
         #endregion
 
         #region Constructors
         public EMailNotification(IProcess nextStep=null)
         {
-            this.nextSteps = nextStep;
+            this.nextStep = nextStep;
         }
         #endregion
 
@@ -28,9 +28,9 @@ namespace BusinessRuleEngine.Implementation
 
                 // and process next step
                 // break the chain if process failed
-                if (nextSteps != null)
+                if (nextStep != null)
                 {
-                    return nextSteps.Process();
+                    return nextStep.Process();
                 }
                 return new Result((int)Status.SUCCESS);
             }

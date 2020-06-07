@@ -9,13 +9,13 @@ namespace BusinessRuleEngine.Implementation
     public class ApplyUpgrade: IProcess
     {
         #region Private Members
-        private readonly IProcess nextSteps = null;
+        private readonly IProcess nextStep = null;
         #endregion
 
         #region Constructors
         public ApplyUpgrade(IProcess nextStep=null)
         {
-            this.nextSteps = nextStep;
+            this.nextStep = nextStep;
         }
         #endregion
 
@@ -27,10 +27,10 @@ namespace BusinessRuleEngine.Implementation
                 // do some stuff for upgrading membership
                 // and process next step
                 // break the chain if process failed
-                if (nextSteps != null)
+                if (nextStep != null)
                 {
                     string message = "Dear Customer, Your membership has been upgrade";
-                    return nextSteps.Process(message);
+                    return nextStep.Process(message);
                 }
                 return new Result((int)Status.SUCCESS);
             }
